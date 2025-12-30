@@ -1,10 +1,10 @@
 # Hybrid Fabrication Platform for Environmental Sensor Enclosures
 
-This repository supports the development of a **hybrid fabrication reference platform** exploring the use of 3D printing and laser cutting for modular environmental sensor enclosures, with search-and-rescue–inspired and educational use cases.
+This repository supports the development of a hybrid fabrication reference platform exploring the use of 3D printing and laser cutting for modular environmental sensor enclosures, with search-and-rescue–inspired and educational use cases.
 
-The project focuses on the **physical integration layer** of sensing systems—airflow design, material selection, sealing strategies, thermal isolation, and sensor compartmentalization—treating the enclosure itself as a first-order system component that directly influences sensor behavior.
+The project focuses on the physical integration layer of sensing systems—airflow design, material selection, sealing strategies, thermal isolation, and sensor compartmentalization—treating the enclosure itself as a first-order system component that directly influences sensor behavior.
 
-Rather than producing a finished or certified device, this work emphasizes **methodology, iteration, and design tradeoffs**, making enclosure-driven effects visible, testable, and reproducible.
+Rather than producing a finished or certified device, this work emphasizes methodology, iteration, and design tradeoffs, making enclosure-driven effects visible, testable, and reproducible.
 
 ---
 
@@ -16,7 +16,7 @@ Rather than producing a finished or certified device, this work emphasizes **met
 - Emphasis on fabrication methodology and evaluation rather than operational performance claims  
 - Local, transparent data logging for comparative testing and documentation  
 
-This project does **not** make claims about detection accuracy, operational readiness, or field deployment suitability.
+This project does not make claims about detection accuracy, operational readiness, or field deployment suitability.
 
 ---
 
@@ -34,7 +34,7 @@ All designs, documentation, and example test protocols are intended to be shared
 
 ## Status
 
-This repository is currently a **public placeholder** created to support project planning and funding review.
+This repository is currently a public placeholder created to support project planning and funding review.
 
 No designs, test data, or implementation files are present yet. Content will be added incrementally during development phases if the project proceeds.
 
